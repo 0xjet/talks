@@ -2,6 +2,10 @@
 
 This repository contains slides and material I've used in invited talks in conferences, seminars or other events.
 
+### 2021
+
+* **A Year in Lockdown: How the Waves of COVID-19 Impact Internet Traffic** [[slides](https://github.com/0xjet/talks/blob/main/2021_redimadrid_a_year_in_lockdown.pdf)] \
+Invited talk at Jornadas REDIMADRID'21 of our [CACM'21 Research Highlights](https://dl.acm.org/doi/abs/10.1145/3465212) paper, Oct 2021
 
 ### 2019
 
