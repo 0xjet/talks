@@ -2,6 +2,9 @@
 
 This repository contains slides and material I've used in invited talks in conferences, seminars or other events.
 
+* **AI and New Threats: A Skeptics’ Guide** [[slides](https://github.com/0xjet/talks/blob/main/2022uma.pdf)] \
+Invited talk at the UMA Summer School on Intelligent Threats and Intellience against Threats. Málaga, July 2022
+
 * **Tracking and Privacy in the Mobile Ecosystem** [[slides](https://github.com/0xjet/talks/blob/main/2022_urjc_summer_school_privacy_mobile_ecosystem.pdf)] \
 Invited talk at the URJC Summer School on Cyberspace Security Challenges. Madrid, July 2022
 
